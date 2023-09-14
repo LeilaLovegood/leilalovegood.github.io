@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-[**A Continuum Model for Dislocation Climb**](https://www.sciencedirect.com/science/article/pii/S0749641923001869).
+[**A Continuum Model for Dislocation Climb**](https://www.sciencedirect.com/science/article/pii/S0749641923001869). 
 C Huang, S Dai, X Niu, T Jiang, Z Yang, Y Gu, Y Xiang.
 Published in *International Journal of Plasticity 168, 103700, 2023*.
 
