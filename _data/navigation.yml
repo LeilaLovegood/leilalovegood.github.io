@@ -13,4 +13,7 @@ main:
     url: /cv/
 
   - title: "Photography"
-    url: /pthoto/
+    url: /photo/
+
+  - title: "Others"
+    url: /others/
