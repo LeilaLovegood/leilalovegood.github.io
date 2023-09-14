@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Leila"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chutian Huang"
   avatar           : "profile.png"
-  bio              : "Math PhD student"
+  bio              : "a Math PhD student"
   location         : "Hong Kong"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=-1HUFwwAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : chuangat@connect.ust.hk
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   github           : "https://github.com/LeilaLovegood"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/leila.lovegood"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
@@ -187,6 +187,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  photography:
+    output: true
+    permalink: /:collection/:path/
+  others:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -244,6 +250,23 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _photography
+  - scope:
+      path: ""
+      type: photography
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _others
+  - scope:
+      path: ""
+      type: others
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
