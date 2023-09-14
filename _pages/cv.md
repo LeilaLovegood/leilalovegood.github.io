@@ -20,7 +20,7 @@ Honors and Awards
 * 2017.09: National Scholarship in Wuhan University
 * 2018.09: National Scholarship in Wuhan University
 * 2019.09: Yu Gang-Song Xiao Scholarship in Wuhan University
-* 2019.11: Foreign Exchange Scholarship from Chinese Scholarship Council (CSC)
+* 2019.07: Foreign Exchange Scholarship from Chinese Scholarship Council (CSC)
 * 2020.06: Graduated from Wuhan University as top 1% student
 * 2020-2024: Hong Kong PhD Fellowship Scheme (HKPFS) in HKUST
 
