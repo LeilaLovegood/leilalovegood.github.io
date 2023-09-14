@@ -11,42 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2016.09 - 2020.06: B.S. in Wuhan University, Hubei Province, China
+* 2019.09 - 2020.02: M1 Mathematics (exchange) in Université Toulouse III - Paul Sabatier, Toulouse, France
+* 2020.09 - now: PhD student in Mathematics, the Hong Kong University of Science and Technology, Hong Kong, China
 
-Work experience
+Internship experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022.08 - 2023.05: Research Intern
+  * International Digital Economy Academy, Shenzhen, China
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2023.05 - 2023.08: Intern
+  * Syneron Tech, Beijing, China
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
@@ -54,6 +36,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
