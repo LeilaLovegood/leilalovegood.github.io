@@ -19,8 +19,8 @@ Awards
 ======
 * 2017.09: National Scholarship in Wuhan University
 * 2018.09: National Scholarship in Wuhan University
-* 2019.09: Yugang-Songxiao Award in Wuhan University
-* 2019.11: Foreign Exchange Award from Chinese Scholarship Council 
+* 2019.09: Yu Gang-Song Xiao Scholarship in Wuhan University
+* 2019.11: Foreign Exchange Scholarship from Chinese Scholarship Council (CSC)
 * 2020-2024: Hong Kong PhD Fellowship Scheme (HKPFS) in HKUST
 
 Internship experience
